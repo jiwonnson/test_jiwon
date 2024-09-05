@@ -5,6 +5,7 @@ Hello World!
 
 Hi my name is Gaby!
 
-rahhh merge conflictHi Gaby, my name is Jiwon!
+rahhh merge conflict
+Hi Gaby, my name is Jiwon!
 
-everything is okay
+This is my new branch :D
